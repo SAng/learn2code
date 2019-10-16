@@ -5,7 +5,7 @@
 * [SFU](http://www.sfu.ca/computing/prospective-students/undergraduate-students/admissions.html)
 * [UBC BCS](https://www.cs.ubc.ca/students/undergrad/degree-programs/bcs-program-second-degree/how-apply)
 
-## Technical College
+## Technical Colleges
 * [BCIT](https://www.bcit.ca/study/programs/5500dipma)
 
 ## Bootcamps
